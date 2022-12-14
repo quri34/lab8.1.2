@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  8.1.2.cpp
+C:\Users\bixny\Desktop\c++\lab8.1.2\lab8.1.2\lab8.1.2.cpp(30,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bixny\Desktop\c++\lab8.1.2\8.1.2\8.1.2.cpp(17,1): error C2660: Count: функция не принимает 1 аргументов
+C:\Users\bixny\Desktop\c++\lab8.1.2\lab8.1.2\lab8.1.2.cpp(11,5): message : см. объявление "Count"
